@@ -1,1 +1,1 @@
-# protocols-for-widespread_introgression-in-Quercus_species
+These are the codes files we used to perform main analyses in the paper : "Widespread introgression across a phylogeny of 168 genomes from 67 Quercus species and its association to gene expression regulation " authored by Yuxiang Zhu, Ruirui Fu, Mingming Zhang, Yao Li, Xinyue Teng, Jing Wu, Ying Liu, Yuqing Zhang, Yan Lin, Zeyuan Zhang, Chunmei Pang, Hanxing Wu, Antoine Kremer, Martin Lascoux, Jun Chen
